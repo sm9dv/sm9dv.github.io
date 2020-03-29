@@ -11,5 +11,17 @@ p {
 }
 
 body{
-	margin: 25px 25px ;
+	height: 100%;
+	background-color: red;
+	border-style: dotted;
+	border-color: green;
+
+
+}
+
+
+div.test{
+	width: 50%;
+	border-style: solid;
+	border-color: white;
 }
