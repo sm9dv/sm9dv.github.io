@@ -5,19 +5,29 @@ body, html {
   color: #777;
 }
 
+h1 {
+  margin: 30px 30px 30px 30px;
+}
+
+
+h2 {
+  margin: 30px 30px 30px 30px;
+}
+
+
+
 
 h3 {
   letter-spacing: 5px;
   text-transform: uppercase;
   font: 20px "Lato", sans-serif;
   color: #111;
-    text-align: center;
-
+  text-align: center;
 }
 
 p {
     margin: 2em 2em 2em 2em;
-  }
+}
 
 
   /* Add a black background color to the top navigation */
