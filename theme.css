@@ -74,3 +74,12 @@ p {
 .presentation img {
   width: 1000px;
 }
+
+div, iframe {
+    margin: 0 auto;
+}
+
+iframe {
+    display: block;
+    border-style:none;
+}
